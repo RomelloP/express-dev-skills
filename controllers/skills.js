@@ -11,3 +11,4 @@ function index(req, res) {
       skills: Skill.getAll()
     });
   }
+  
